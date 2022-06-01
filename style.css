@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0; 
+}
+ 
+body {
+    background-image: url("bg3.jpg");
+    background-color: #FFFFFF;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+ 
+.h1 {
+    font-family: 'Italianno', cursive;
+    color: #E1E1E1;
+    text-align: center;
+    font-size: 38px;
+    line-height: 1.5;
+    letter-spacing: 0.1em;
+    text-shadow: 3px 2px #333333;
+    width: 100%;
+}
+
+.h3 {
+    font-family: 'Italianno', cursive;
+    color: #E1E1E1; 
+    text-align: center;
+    font-size: 38px;
+    line-height: 1.5;
+    letter-spacing: 0.1em;
+    text-shadow: 3px 2px #333333;
+    width: 100%;
+}
+
+#countdown {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    font-family: arial;
+    font-size: 38px;
+    color: #E1E1E1;
+    text-shadow: 3px 2px #333333;
+    text-align: center;
+    padding: 15px;
+    border: 10px solid #E1E1E1;
+    width: 700px;
+    font-family: 'Lora', serif; 
+    box-shadow: 3px 3px 3px #333333;
+    width: 55%;
+    
+}
+ 
+.container {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 66%;
+    height: 50vh;
+}
