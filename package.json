@@ -1,0 +1,22 @@
+{
+  "name": "countdown-js",
+  "version": "1.0.0",
+  "description": "A count down effect.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onion108/CountDown-JS.git"
+  },
+  "keywords": [
+    "count-down",
+    "front-end"
+  ],
+  "author": "Tianxing Li",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/onion108/CountDown-JS/issues"
+  },
+  "homepage": "https://github.com/onion108/CountDown-JS#readme"
+}
